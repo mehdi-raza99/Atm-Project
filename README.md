@@ -1,7 +1,7 @@
 ATM Project in Java
 Description:
-This is a Java-based ATM (Automated Teller Machine) project developed using Object-Oriented Programming (OOP) concepts. 
-It simulates the functionality of a real ATM machine, allowing users to perform basic banking operations such as withdrawing cash, depositing funds, checking account balances, and transferring money between accounts.
+This project is a console-based ATM simulation system built in Java.
+It allows users to create bank accounts (either Checking or Savings), deposit money, withdraw funds, and check account balances.
 
 Technologies Used:
 Java
